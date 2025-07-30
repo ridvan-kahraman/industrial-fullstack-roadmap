@@ -16,11 +16,13 @@ Before you begin, install the following tools:
 ## 📘 Learning Flow
 
 Each week includes:
+
 - `readme.md` — Topics and Learning Goals
 - `tasks.md` — Exercises to Reinforce Concepts
 - `resources.md` — Curated Materials and Tools
 
-Plan:  
+Plan:
+
 📅 8 Months × 4 Weeks × 6 Days/Week → 2 Hrs/Day  
 ⏳ One day per week is reserved for review + new week planning
 

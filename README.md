@@ -117,8 +117,8 @@ Created by Ridvan Kahraman for Aspiring Industrial Software Architects.
 | 🧭 Roadmap Overview   | [README – Roadmap Breakdown](#-roadmap-breakdown)     |
 | 🧠 Getting Started    | [Wiki – Getting Started](/wiki/getting_started.md)    |
 | 🔗 Integration Guide  | [Wiki – Integration Guide](/wiki/integration_guide.md)|
-| 🧩 Feature Request    | [Feature Request](/wiki/feature_request.md)           |
-| 🐞 Bug Report         | [Bug Report](/wiki/bug_report.md)                     |
+| 🧩 Feature Request    | [Wiki – Feature Request](/wiki/feature_request.md)    |
+| 🐞 Bug Report         | [Wiki – Bug Report](/wiki/bug_report.md)              |
 | 📚 Full Wiki Index    | [Wiki – Index](/wiki/index.md)                        |
 
 > "The future of automation belongs to those who blend code with control." ✨
