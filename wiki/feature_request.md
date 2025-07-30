@@ -1,13 +1,10 @@
 ---
 Name: 🚀 Feature Request
 About: Suggest a new idea or enhancement for this roadmap
-Title: "[Feature] "
-Labels: Enhancement
+Title: "[feature] "
+Labels: enhancement
 Assignees: ''
-
 ---
-
-# Feature Request
 
 ## 🧠 Describe the Feature
 A clear and concise description of what you want to happen.
