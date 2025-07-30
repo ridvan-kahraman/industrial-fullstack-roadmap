@@ -1,11 +1,12 @@
 ---
 Name: 🐞 Bug Report
-About: Report a Bug or Broken Element in the Roadmap or Content
+About: Report a bug or broken element in the roadmap or content
 Title: "[Bug] "
 Labels: Bug
 Assignees: ''
 
 ---
+# Bug Report
 
 ## 🐛 Describe the Bug
 What happened? What did you expect to happen?

@@ -7,6 +7,8 @@ Assignees: ''
 
 ---
 
+# Feature Request
+
 ## 🧠 Describe the Feature
 A clear and concise description of what you want to happen.
 
@@ -16,4 +18,4 @@ Explain the value or scenario where this feature would be used.
 ## 📌 Additional Context
 Add any other context, links, or screenshots about the feature request.
 
-> Example: "Add OpenCV YOLOv5 integration guide in Month 8 resources"
+> Example: "Add OpenCV YOLOv5 integration guide in month 8 resources"
