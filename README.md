@@ -1,6 +1,8 @@
 # Industrial-Fullstack-Roadmap
 A Complete 8-Month Learning Journey Combining IoT, PLC (CODESYS), .NET Core APIs, and Computer Vision for Building Modern Industrial Control and Monitoring Systems
 
+📚 [**Explore the Wiki**](./wiki/index.md) for detailed guides and integration steps.
+
 ---
 
 ## 🚀 Objectives
@@ -106,5 +108,16 @@ Licensed under the **MIT License** — feel free to use, modify, and build upon 
 Created by Ridvan Kahraman for Aspiring Industrial Software Architects.
 
 ---
+
+## 🗂 Quick Access Links
+
+| Section               | Resource                                                                                  |
+|-----------------------|-------------------------------------------------------------------------------------------|
+| 🧭 Roadmap Overview   | [README – Roadmap Breakdown](#-roadmap-breakdown)                                         |
+| 🧠 Getting Started    | [Wiki – Getting Started](./wiki/getting-started.md)                                       |
+| 🔗 Integration Guide  | [Wiki – Integration Guide](./wiki/integration-guide.md)                                   |
+| 🧩 Feature Request    | [.github/issue_template/feature_request.md](./.github/issue_template/feature_request.md)  |
+| 🐞 Bug Report         | [.github/issue_template/bug_report.md](./.github/issue_template/bug_report.md)            |
+| 📚 Full Wiki Index    | [Wiki – Index](./wiki/index.md)                                                           |
 
 > "The future of automation belongs to those who blend code with control." ✨
