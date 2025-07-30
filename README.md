@@ -81,14 +81,16 @@ A Complete 8-Month Learning Journey Combining IoT, PLC (CODESYS), .NET Core APIs
 ## 📁 Repository Structure
 
 ```
-/Month_01_CSharpFundamentals
-/Month_02_DotNetApi
-/Month_03_CodesysCANopen
-/Month_04_IoTIntegration
-/Month_05_SCADA_UI
-/Month_06_FullstackDemo
-/Month_07_Portfolio
-/Month_08_ComputerVision
+/.github
+/month_01_csharp_fundamentals
+/month_02_dotnet_api
+/month_03_codesys_canopen
+/month_04_iot_integration
+/month_05_scada_ui
+/month_06_fullstack_demo
+/month_07_portfolio
+/month_08_computer_vision
+/wiki
 ```
 
 ---
