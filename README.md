@@ -112,13 +112,13 @@ Created by Ridvan Kahraman for Aspiring Industrial Software Architects.
 
 ## 🗂 Quick Access Links
 
-| Section               | Resource                                                        |
-|-----------------------|-----------------------------------------------------------------|
-| 🧭 Roadmap Overview   | [README – Roadmap Breakdown](#-roadmap-breakdown)               |
-| 🧠 Getting Started    | [Wiki – Getting Started](./wiki/getting-started.md)             |
-| 🔗 Integration Guide  | [Wiki – Integration Guide](./wiki/integration-guide.md)         |
-| 🧩 Feature Request    | [Feature Request](./.github/issue_template/feature_request.md)  |
-| 🐞 Bug Report         | [Bug Report](./.github/issue_template/bug_report.md)            |
-| 📚 Full Wiki Index    | [Wiki – Index](./wiki/index.md)                                 |
+| Section               | Resource                                              |
+|-----------------------|-------------------------------------------------------|
+| 🧭 Roadmap Overview   | [README – Roadmap Breakdown](#-roadmap-breakdown)     |
+| 🧠 Getting Started    | [Wiki – Getting Started](/wiki/getting_started.md)    |
+| 🔗 Integration Guide  | [Wiki – Integration Guide](/wiki/integration_guide.md)|
+| 🧩 Feature Request    | [Feature Request](/wiki/feature_request.md)           |
+| 🐞 Bug Report         | [Bug Report](/wiki/bug_report.md)                     |
+| 📚 Full Wiki Index    | [Wiki – Index](/wiki/index.md)                        |
 
 > "The future of automation belongs to those who blend code with control." ✨
