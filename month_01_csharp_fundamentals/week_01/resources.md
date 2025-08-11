@@ -6,7 +6,7 @@
 - [C# Programming Guide (MSDN)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts)
 
 ## 🎥 Video Lessons
-- [Brackeys: C# Basics for Beginners (YouTube)](https://www.youtube.com/watch?v=gfkTfcpWqAY)
+- [Brackeys: C# Basics for Beginners (YouTube)](https://www.youtube.com/watch?v=N775KsWQVkw&list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR&index=1)
 - [freeCodeCamp: Full C# Course (YouTube)](https://www.youtube.com/watch?v=GhQdlIFylQ8)
 
 ## 🛠 Tools and Practice
