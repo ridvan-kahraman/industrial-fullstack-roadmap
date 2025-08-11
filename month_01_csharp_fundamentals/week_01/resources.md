@@ -3,7 +3,7 @@
 ## 📘 Reading Materials
 - [Microsoft Docs: C# Fundamentals](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/)
 - [The C# Yellow Book – Rob Miles (Free PDF)](https://www.robmiles.com/c-yellow-book)
-- [C# Programming Guide (MSDN)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts))
+- [C# Programming Guide (MSDN)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts)
 
 ## 🎥 Video Lessons
 - [Brackeys: C# Basics for Beginners (YouTube)](https://www.youtube.com/watch?v=GhQdlIFylQ8)
